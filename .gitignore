@@ -1,0 +1,39 @@
+# Local / project-specific
+HOW-TO-PUBLISH.md
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# Editors & IDEs
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies & build (common stacks)
+node_modules/
+vendor/
+__pycache__/
+*.py[cod]
+.Python
+dist/
+build/
+*.egg-info/
+.target/
