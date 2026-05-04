@@ -412,14 +412,14 @@ This spec is published as a request for comment, not a finished standard. It wil
 
 ## 10. Status, license, and how to contribute
 
-**Status:** Draft v0.1, published [DATE TO INSERT]. Subject to revision based on community feedback. No backwards-compatibility guarantees until v1.0.
+**Status:** Draft v0.1, published May 5, 2026. Subject to revision based on community feedback. No backwards-compatibility guarantees until v1.0.
 
 **License:** This spec is released under Apache 2.0. The reference implementation (MemArray) is also Apache 2.0.
 
 **Contributing:** Issues and PRs welcome at `github.com/memarray/influence-trace-spec`. Substantive disagreements with the spec — especially "this primitive is wrong" or "this signal in the grounding score is misweighted" — are the kind of feedback that changes the document.
 
-**Reference implementation status:** The MemArray reference implementation is in development. A v0.1 demo (showing `add`, `search`, response tracing on toy data, and rollback) is targeted for [DATE TO INSERT]. Track progress at `github.com/memarray/memarray`.
+**Reference implementation status:** The MemArray reference implementation is in development. A v0.1 demo (showing `add`, `search`, response tracing on toy data, and rollback) is targeted for July 20, 2026. Track progress at `github.com/memarray/memarray`.
 
 ---
 
-*Author: Akhil Sanker, founder of MemArray. Reach me at [contact] or on GitHub at [@akhilmedvolt](https://github.com/akhilmedvolt). I am building MemArray full-time and looking for design partners (especially teams running voice agents on LiveKit / Vapi / Retell) and a co-founder with a GTM background. If either describes you, I'd genuinely love to talk.*
+*Author: Akhil Sanker, founder of MemArray. Reach me at [akhilsanker.official@gmail.com] or on GitHub at [@akhilmedvolt](https://github.com/akhilmedvolt). I am building MemArray full-time and looking for design partners (especially teams running voice agents on LiveKit / Vapi / Retell) and a co-founder with a GTM background. If either describes you, I'd genuinely love to talk.*
