@@ -1,0 +1,2 @@
+# validate_claims.py uses only the Python standard library (urllib, json, tarfile, etc.).
+# No installable packages are required. Use Python 3.10+ (3.12+ recommended for safer tar extraction).
